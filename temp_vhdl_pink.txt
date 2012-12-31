@@ -1,0 +1,6 @@
+rising_edge
+falling_edge
+integer
+INTEGER
+constant
+CONSTANT
